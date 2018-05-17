@@ -1,0 +1,18 @@
+int a;
+int b;
+int c;
+a=1;
+b=2;
+c=3;
+
+if(a==1){
+  prints="a==1 \n";
+  if(b>=2){
+    prints="b>=2 \n";
+    if(c<3){
+    prints="c<3 \n";
+    }else{
+      prints="c nie jest mniejsze od 3 \n";
+    };
+  };
+};

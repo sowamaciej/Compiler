@@ -1,0 +1,30 @@
+int a[10];
+int i;
+int j;
+int g;
+int helper;
+
+for(i=0;i=i+1;i<10){
+  if(i==g){
+    a[i]=i*10;
+    g=g+2;
+  }else{
+    a[i]=i;
+  };
+  printi=a[i];
+  prints="\t";
+};
+for(j=9;j=j-1;j>1){
+  for(i=0;i=i+1;i<9){
+    if(a[i]>a[i+1]){
+      helper=a[i];
+      a[i]=a[i+1];
+      a[i+1]=helper;
+    };
+  };
+};
+prints="\n";
+for(i=0;i=i+1;i<10){
+  printi=a[i];
+  prints="\t";
+};

@@ -1,0 +1,13 @@
+int x[3];
+int y;
+int i;
+for(i=0;i=i+1;i<3){
+  prints="Wpisz liczbe:";
+  y=readi;
+  x[i]=y;
+};
+
+for(i=0;i=i+1;i<3){
+  printi=x[i];
+  prints="\t";
+};

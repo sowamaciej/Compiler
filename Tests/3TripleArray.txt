@@ -1,0 +1,10 @@
+int a[10];
+int i;
+for(i=0;i=i+1;i<10){
+  a[i]=i;
+};
+printi=a[a[a[3+1]]];
+prints="\n";
+printi=a[2*4-1];
+prints="\n";
+printi=a[a[2]+a[1]];

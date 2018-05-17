@@ -1,0 +1,12 @@
+int x;
+int y;
+int z;
+
+for(x=0;x=x+1;x<2){
+  for(y=0;y=y+2;y<3){
+      for(z=2;z=z-1;z>0){
+        printi=z;
+        prints="\t";
+      };
+  };
+};

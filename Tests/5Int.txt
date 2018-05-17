@@ -1,0 +1,12 @@
+int x;
+int y;
+int z;
+
+x=2+2*2-3+13*2;
+printi=x;
+prints="\n";
+y=12;
+printi=y;
+prints="\n";
+z=x/y;
+printi=z;
